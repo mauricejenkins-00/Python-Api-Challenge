@@ -1,0 +1,3 @@
+weather_api_key = 'f8ca958d8752808c63e6c5d50aaca7ce'
+
+There does seem to be a pretty strong correlation between wind sped and latitude when you look at the plots. However, the linear regresion shows a much lower correlation than it appears. There is still a definite correlation in both hemispheres, in that the further you are from the equator (latitude 0) the higher the wind speeds are, but the slope of the regression line is much shallower than I was expecting looking at the plots.
